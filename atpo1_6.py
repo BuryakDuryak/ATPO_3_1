@@ -73,4 +73,5 @@ if result1 and not result2:
     print("• registration2.html: тест упал ✓ (обнаружен баг)")
 else:
     print("Что-то пошло не так")
+
 print("=" * 50)
